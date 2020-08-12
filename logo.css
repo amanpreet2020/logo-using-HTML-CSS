@@ -1,0 +1,32 @@
+body{
+	padding:0;
+	margin:0;
+}
+div {
+	width: 800px;
+	height: 800px;
+	background-color:pink;
+	color: blue;
+}
+div .head1 {
+	position: absolute;
+	top: 25%;
+	left: 254px ;
+	background-color:white;
+	font-size: 100px;
+	color:crimson;
+	padding:0px 6px 0px 6px;
+	font-family: Bebas;
+}
+div .head2 {
+	position: absolute;
+	top: 41%;
+	left: 254px ;
+	width: 210px;
+	background-color: crimson;
+	font-size: 100px;
+	color:white;
+	padding:0px 6px 0px 6px;
+	font-family: Bebas;
+	line-height: normal;
+}
